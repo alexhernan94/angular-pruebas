@@ -1,3 +1,7 @@
+# Tutorial seguido
+
+https://www.youtube.com/watch?v=Pt2HF_sOjr4&list=PLp50dWW_m40WQ9-t0lyamekhE2OiZQrCG&index=5
+
 # AngularPruebas
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
